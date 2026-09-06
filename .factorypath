@@ -1,0 +1,16 @@
+<factorypath>
+    <factorypathentry kind="VARJAR" id="M2_REPO/com/microsoft/playwright/playwright/1.29.0/playwright-1.29.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/com/microsoft/playwright/driver/1.29.0/driver-1.29.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/com/microsoft/playwright/driver-bundle/1.29.0/driver-bundle-1.29.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/testng/testng/7.10.2/testng-7.10.2.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/com/beust/jcommander/1.82/jcommander-1.82.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/webjars/jquery/3.7.1/jquery-3.7.1.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/com/aventstack/extentreports/5.1.0/extentreports-5.1.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/io/reactivex/rxjava3/rxjava/3.1.6/rxjava-3.1.6.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/freemarker/freemarker/2.3.32/freemarker-2.3.32.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/projectlombok/lombok/1.18.26/lombok-1.18.26.jar" enabled="true" runInBatchMode="false"/>
+</factorypath>

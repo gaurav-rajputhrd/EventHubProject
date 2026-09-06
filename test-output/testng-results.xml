@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="11" total="13" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-05T22:18:53 IST" name="Regression Suite" finished-at="2026-09-05T22:19:19 IST" duration-ms="26268">
+    <groups>
+      <group name="smoke">
+        <method signature="AlertConceptTest.getMethod()[pri:0, instance:eventHubTests.AlertConceptTest@6bbe85a8]" name="getMethod" class="eventHubTests.AlertConceptTest"/>
+        <method signature="WindowConceptTest.getMethod()[pri:0, instance:eventHubTests.WindowConceptTest@72035809]" name="getMethod" class="eventHubTests.WindowConceptTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2026-09-05T22:18:53 IST" name="Create Event Page Test" finished-at="2026-09-05T22:18:53 IST" duration-ms="29">
+    </test> <!-- Create Event Page Test -->
+    <test started-at="2026-09-05T22:18:53 IST" name="Login Page Test" finished-at="2026-09-05T22:18:53 IST" duration-ms="3">
+    </test> <!-- Login Page Test -->
+    <test started-at="2026-09-05T22:18:53 IST" name="Home Page Test" finished-at="2026-09-05T22:18:53 IST" duration-ms="4">
+    </test> <!-- Home Page Test -->
+    <test started-at="2026-09-05T22:18:53 IST" name="Alert  Page Test" finished-at="2026-09-05T22:19:08 IST" duration-ms="15365">
+      <class name="eventHubTests.AlertConceptTest">
+        <test-method signature="getMethod()[pri:0, instance:eventHubTests.AlertConceptTest@6bbe85a8]" started-at="2026-09-05T22:18:53 IST" name="getMethod" finished-at="2026-09-05T22:19:08 IST" duration-ms="15274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMethod -->
+      </class> <!-- eventHubTests.AlertConceptTest -->
+    </test> <!-- Alert  Page Test -->
+    <test started-at="2026-09-05T22:19:08 IST" name="Window Concept Test" finished-at="2026-09-05T22:19:19 IST" duration-ms="10650">
+      <class name="eventHubTests.WindowConceptTest">
+        <test-method signature="getMethod()[pri:0, instance:eventHubTests.WindowConceptTest@72035809]" started-at="2026-09-05T22:19:08 IST" name="getMethod" finished-at="2026-09-05T22:19:19 IST" duration-ms="10641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMethod -->
+      </class> <!-- eventHubTests.WindowConceptTest -->
+    </test> <!-- Window Concept Test -->
+  </suite> <!-- Regression Suite -->
+</testng-results>

@@ -1,0 +1,15 @@
+# Created at 2026-09-05T19:50:35.187
+Boot Manifest-JAR contains absolute paths in classpath 'D:\eclipse-workspace\EventHubByNaveen\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
+# Created at 2026-09-05T19:51:16.114
+Boot Manifest-JAR contains absolute paths in classpath 'D:\eclipse-workspace\EventHubByNaveen\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
+# Created at 2026-09-05T19:51:41.680
+Boot Manifest-JAR contains absolute paths in classpath 'D:\eclipse-workspace\EventHubByNaveen\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
