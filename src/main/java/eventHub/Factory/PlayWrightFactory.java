@@ -49,15 +49,15 @@ public class PlayWrightFactory {
 		switch (browsername.toLowerCase()) {
 		case "chromium":
 			//browser=playwright.chromium().launch(new BrowserType.LaunchOptions().setHeadless(false));
-			tlBrowser.set(getPlaywright().chromium().launch(new BrowserType.LaunchOptions().setHeadless(false)));
+			tlBrowser.set(getPlaywright().chromium().launch(new BrowserType.LaunchOptions().setHeadless(true)));
 			break;
 		case "safari":
 			//browser=playwright.webkit().launch(new BrowserType.LaunchOptions().setHeadless(false));
-			tlBrowser.set(getPlaywright().webkit().launch(new BrowserType.LaunchOptions().setHeadless(false)));
+			tlBrowser.set(getPlaywright().webkit().launch(new BrowserType.LaunchOptions().setHeadless(true)));
 			break;
 		case "chrome":
 			//browser=playwright.chromium().launch(new BrowserType.LaunchOptions().setChannel("chrome").setHeadless(false));
-			tlBrowser.set(getPlaywright().chromium().launch(new BrowserType.LaunchOptions().setChannel("chrome").setHeadless(false)));
+			tlBrowser.set(getPlaywright().chromium().launch(new BrowserType.LaunchOptions().setChannel("chrome").setHeadless(true)));
 			break;
 		default:
 			throw new IllegalArgumentException("Unsupported browser "+browsername);
