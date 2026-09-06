@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: eventHubTests.AlertConceptTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.32 s -- in eventHubTests.AlertConceptTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 26.81 s -- in eventHubTests.AlertConceptTest
